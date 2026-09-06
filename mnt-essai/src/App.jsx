@@ -111,6 +111,7 @@ export default function App() {
           venue: c.venue,
           teacher: c.teacher,
           time: c.time,
+          full: c.full,
         }))
 
         setCourses(list)
