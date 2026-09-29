@@ -15,7 +15,7 @@ const CONFIG = {
   bookingsCollection: 'essai_reservations',
   mailCollection: 'mail',
   adminEmail: 'contact@mntstudiodance.fr', // ⚠️ à remplacer par la vraie adresse
-  weeksAhead: 2,
+  weeksAhead: 1,
   // Aucune date proposée avant cette date, même si le jour de la semaine
   // tomberait plus tôt. Une fois cette date passée, le calcul revient
   // naturellement à "aujourd'hui" — rien à modifier après la rentrée.
